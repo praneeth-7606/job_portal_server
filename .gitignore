@@ -126,3 +126,12 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .vercel
+
+# OpenCode agent local files (never commit)
+.opencode/
+opencode.json
+.opencode-cache/
+
+# gitflow local folders (never commit)
+gitflow/
+.gitflow/
